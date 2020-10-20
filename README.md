@@ -1,2 +1,2 @@
 # discovery-server
-discovery-server for dev-ops 5
+discovery-server for dev-ops 6
