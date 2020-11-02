@@ -1,6 +1,6 @@
 
 pipeline {
-    agent {label: 'agent007'}
+    agent {label 'agent007'}
 
     stages {
         /**stage('checkout') {
